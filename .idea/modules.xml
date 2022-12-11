@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../a_data_save/Config/.idea/Config.iml" filepath="$PROJECT_DIR$/../a_data_save/Config/.idea/Config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HongFeiGit/.idea/HongFeiGit.iml" filepath="$PROJECT_DIR$/../HongFeiGit/.idea/HongFeiGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/taobao.iml" filepath="$PROJECT_DIR$/.idea/taobao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../毕业事宜/毕业论文/毕业论文代码/.idea/毕业论文代码.iml" filepath="$PROJECT_DIR$/../毕业事宜/毕业论文/毕业论文代码/.idea/毕业论文代码.iml" />
+    </modules>
+  </component>
+</project>
